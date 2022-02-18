@@ -1,6 +1,6 @@
 # Projects-Ironhack
 
-Projects for Ironhack DA course!
+====Projects for Ironhack DA course!====
 
 1st Project: PyGame Project. Project to create a game using Python langauge.
 
@@ -10,6 +10,7 @@ Using while loops and functions so the game rolls two d8s. Whenever the two dice
 
 Stats: Done!
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+
 2nd Project: Shark Attack! Clean data form a messy csv archive and answer a business question.
 
 Question: SHARK ATTACKS - WHERE DO THEY HAPPEN MORE, WHEN, TO WHICH SEX AND RELATED TO WHICH ACTIVITY?
