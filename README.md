@@ -18,5 +18,5 @@ Question: SHARK ATTACKS - WHERE DO THEY HAPPEN MORE, WHEN, TO WHICH SEX AND RELA
 Using data cleaning process and using the matplotlib library I want to make graphics to show the results of the data cleaning done to highlight the questions above.
 Each graph comes with a different color and title so they don't get confused with the other ones.
 
-Stats: In Progress...
+Stats: Uploading...
 ------------------------------------------------------------------------------------------------------------------------------------------------------
